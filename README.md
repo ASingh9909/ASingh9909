@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambika</h1>
+<h1 align="center">It's me Hi 👋, I'm Ambika</h1>
 <h3 align="center">An AI enthusiast and a passionate developer </h3>
 
 - 🔭 I’m currently working on **detecting anomalies in road traffic using Machine Learning**
