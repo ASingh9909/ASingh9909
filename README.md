@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambika</h1>
-<h3 align="center">An AI enthusiast and passionate frontend developer from Japan</h3>
+<h3 align="center">An AI enthusiast and passionate developer </h3>
 
 - 🔭 I’m currently working on **detecting anomalies in road traffic using Machine Learning**
 
