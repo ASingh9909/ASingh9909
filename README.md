@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambika</h1>
-<h3 align="center">An AI enthusiast and passionate developer </h3>
+<h3 align="center">An AI enthusiast and a passionate developer </h3>
 
 - 🔭 I’m currently working on **detecting anomalies in road traffic using Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analysis**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Analysis**
 
 - 💬 Ask me about **Programming**
 
